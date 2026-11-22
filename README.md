@@ -47,7 +47,7 @@ This activity demonstrates how to create and use a custom Python module. Reusabl
 
 **How to run:**
 powershell
-python .\p2\p2_main.py
+py p2_main.py
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7079723b-b955-4328-b393-04a583f0cba1" />
 
 
@@ -67,7 +67,7 @@ A simple program for managing student names. Users can add, remove, search, and 
 **How to run:**
 
 powershell
-python .\p3\p3_record_manager.py
+py p3_record_manager.py
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ab643b9-5d04-4bbb-8866-87239a8e25f0" />
 
@@ -89,7 +89,7 @@ This program demonstrates how Python handles errors through exception handling. 
 **How to run:**
 
 powershell
-python .\p4\p4_exceptions.py
+py p4_exceptions.py
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6d9aced-f29e-4bf2-bc7a-1fdc815a98bd" />
 
 
