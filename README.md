@@ -90,7 +90,8 @@ This program demonstrates how Python handles errors through exception handling. 
 
 powershell
 python .\p4\p4_exceptions.py
-<img width="1339" height="732" alt="image" src="https://github.com/user-attachments/assets/d51f0424-f6ce-4361-8ac8-a33515480363" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6d9aced-f29e-4bf2-bc7a-1fdc815a98bd" />
+
 
 
 ## Folder Structure
