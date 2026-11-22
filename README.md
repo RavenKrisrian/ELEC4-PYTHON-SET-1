@@ -69,7 +69,7 @@ A simple program for managing student names. Users can add, remove, search, and 
 powershell
 python .\p3\p3_record_manager.py
 
-<img width="1339" height="732" alt="image" src="https://github.com/user-attachments/assets/48a5ab0f-f04b-458c-807a-c153a9ef2bb6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ab643b9-5d04-4bbb-8866-87239a8e25f0" />
 
 
 
