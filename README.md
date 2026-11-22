@@ -26,7 +26,7 @@ A menu-driven program that accepts student grades and calculates the average, hi
 
 
 powershell
-python .\p1\p1_grade_calculator
+py p1_grade_calculator.py
 
 
 <img width="1365" height="763" alt="calculator" src="https://github.com/user-attachments/assets/202e2dd2-9f67-4d24-8d6f-9678d590873f" />
