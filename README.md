@@ -26,7 +26,8 @@ A menu-driven program that accepts student grades and calculates the average, hi
 
 
 ```powershell
-python .\p1\p1_grade_calcu
+py p1_grade_calculator.py
+<img width="1365" height="763" alt="calculator" src="https://github.com/user-attachments/assets/44be26c7-7738-4c41-a2fa-b29b9626b891" />
 
 ---
 
@@ -44,8 +45,9 @@ This activity demonstrates how to create and use a custom Python module. Reusabl
 **How to run:**
 
 ```powershell
-python .\p2\p2_main.py
+py p2_main.py
 ```
+
 
 ---
 
@@ -63,7 +65,9 @@ A simple program for managing student names. Users can add, remove, search, and 
 **How to run:**
 
 ```powershell
-python .\p3\p3_record_manager.py
+py p3_record_manager.py
+
+
 ```
 
 ---
@@ -83,7 +87,9 @@ This program demonstrates how Python handles errors through exception handling. 
 **How to run:**
 
 ```powershell
-python .\p4\p4_exceptions.py
+py p4_exceptions.py
+<img width="1366" height="768" alt="exceptions" src="https://github.com/user-attachments/assets/85dd376e-b474-47e6-a115-2cb9c654b07c" />
+
 ```
 
 ---
@@ -126,7 +132,7 @@ ELEC4-PYTHON-SET-1/
 4. Run the Python file for the activity you want to test. For example:
 
 ```powershell
-python .\p1\p1_grade_calculator.py
+py grade_calculator.py
 ```
 
 ## Learning Outcomes
