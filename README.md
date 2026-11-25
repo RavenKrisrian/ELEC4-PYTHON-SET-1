@@ -25,14 +25,10 @@ A menu-driven program that accepts student grades and calculates the average, hi
 **How to run:**
 
 
-powershell
-py p1_grade_calculator.py
+```powershell
+python .\p1\p1_grade_calcu
 
-
-<img width="1365" height="763" alt="calculator" src="https://github.com/user-attachments/assets/202e2dd2-9f67-4d24-8d6f-9678d590873f" />
-
-
-
+---
 
 ### P2 - Custom Module: `student_utils`
 
@@ -46,10 +42,10 @@ This activity demonstrates how to create and use a custom Python module. Reusabl
 - Functions for grade calculations and status
 
 **How to run:**
-powershell
-py p2_main.py
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7079723b-b955-4328-b393-04a583f0cba1" />
 
+```powershell
+python .\p2\p2_main.py
+```
 
 ---
 
@@ -66,37 +62,35 @@ A simple program for managing student names. Users can add, remove, search, and 
 
 **How to run:**
 
-powershell
-py p3_record_manager.py
+```powershell
+python .\p3\p3_record_manager.py
+```
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ab643b9-5d04-4bbb-8866-87239a8e25f0" />
-
-
-
+---
 
 ### P4 - Safe Menu Program (Exception Handling)
 
 This program demonstrates how Python handles errors through exception handling. It includes a menu, division operation, and file-reading operation. It handles invalid inputs, division by zero, and missing files without abruptly terminating the program.
 
 **Concepts used:**
-- try`, `except`, `else`, and `finally`
-- ValueError`
-- ZeroDivisionError`
-- FileNotFoundError`
+- `try`, `except`, `else`, and `finally`
+- `ValueError`
+- `ZeroDivisionError`
+- `FileNotFoundError`
 - Input validation
 - Safe program execution
 
 **How to run:**
 
-powershell
-py p4_exceptions.py
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6d9aced-f29e-4bf2-bc7a-1fdc815a98bd" />
+```powershell
+python .\p4\p4_exceptions.py
+```
 
-
+---
 
 ## Folder Structure
 
-text
+```text
 ELEC4-PYTHON-SET-1/
 │
 ├── p1/
@@ -114,7 +108,7 @@ ELEC4-PYTHON-SET-1/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 > If your filenames differ from those shown above, use the actual filenames inside each folder when running the programs.
 
@@ -131,9 +125,9 @@ ELEC4-PYTHON-SET-1/
 3. Open the terminal.
 4. Run the Python file for the activity you want to test. For example:
 
-powershell
+```powershell
 python .\p1\p1_grade_calculator.py
-
+```
 
 ## Learning Outcomes
 
@@ -147,6 +141,7 @@ After completing Set 1, I practiced:
 - Handling exceptions and errors
 - Organizing Python programs into folders
 
+---
 
 **ELEC 4 - Python Programming | Set 1**
 
