@@ -27,7 +27,7 @@ How to run:
 
 powershell
 py p1_grade_calculator.py
-<img width="1365" height="763" alt="calculator" src="https://github.com/user-attachments/assets/44be26c7-7738-4c41-a2fa-b29b9626b891" />
+<img width="1359" height="759" alt="image" src="https://github.com/user-attachments/assets/c61b8d1a-36a0-4ac2-9471-4359b7bd5490" />
 
 ---
 
