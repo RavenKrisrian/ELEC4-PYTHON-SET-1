@@ -22,10 +22,10 @@ A menu-driven program that accepts student grades and calculates the average, hi
 - Average, highest, and lowest values
 - Pass/fail condition
 
-**How to run:**
+How to run:
 
 
-```powershell
+powershell
 py p1_grade_calculator.py
 <img width="1365" height="763" alt="calculator" src="https://github.com/user-attachments/assets/44be26c7-7738-4c41-a2fa-b29b9626b891" />
 
@@ -44,9 +44,9 @@ This activity demonstrates how to create and use a custom Python module. Reusabl
 
 **How to run:**
 
-```powershell
+powershell
 py p2_main.py
-```
+
 
 
 ---
@@ -64,13 +64,13 @@ A simple program for managing student names. Users can add, remove, search, and 
 
 **How to run:**
 
-```powershell
+powershell
 py p3_record_manager.py
 
 
-```
 
----
+
+
 
 ### P4 - Safe Menu Program (Exception Handling)
 
@@ -86,17 +86,14 @@ This program demonstrates how Python handles errors through exception handling. 
 
 **How to run:**
 
-```powershell
+powershell
 py p4_exceptions.py
 <img width="1366" height="768" alt="exceptions" src="https://github.com/user-attachments/assets/85dd376e-b474-47e6-a115-2cb9c654b07c" />
 
-```
-
----
 
 ## Folder Structure
 
-```text
+text
 ELEC4-PYTHON-SET-1/
 │
 ├── p1/
@@ -114,40 +111,6 @@ ELEC4-PYTHON-SET-1/
 │
 ├── .gitignore
 └── README.md
-```
 
-> If your filenames differ from those shown above, use the actual filenames inside each folder when running the programs.
 
-## Requirements
-
-- Python 3 installed
-- Visual Studio Code or another Python editor
-- Terminal or Command Prompt
-
-## Running the Programs
-
-1. Download or clone this repository.
-2. Open the repository folder in Visual Studio Code.
-3. Open the terminal.
-4. Run the Python file for the activity you want to test. For example:
-
-```powershell
-py grade_calculator.py
-```
-
-## Learning Outcomes
-
-After completing Set 1, I practiced:
-
-- Writing and calling Python functions
-- Using lists and sets to manage data
-- Creating and importing custom modules
-- Building menu-driven programs
-- Validating user inputs
-- Handling exceptions and errors
-- Organizing Python programs into folders
-
----
-
-**ELEC 4 - Python Programming | Set 1**
 
